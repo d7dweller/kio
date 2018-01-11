@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/khrisb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://khrisbyrd.com
+  * I am khrisb (https://keybase.io/khrisb) on keybase.
+  * I have a public key ASCAtZQNfvfzc4Ykq0EYNzTX5wQc-9fZhV7KVGpYRqdtZQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012080b5940d7ef7f3738624ab41183734d7e7041cfbd7d9855eca546a5846a76d650a",
+      "host": "keybase.io",
+      "kid": "012080b5940d7ef7f3738624ab41183734d7e7041cfbd7d9855eca546a5846a76d650a",
+      "uid": "7670c1c61896492b66df2cfde5c88519",
+      "username": "khrisb"
+    },
+    "merkle_root": {
+      "ctime": 1515686291,
+      "hash": "b83007574460b666a8a54e6327f78984904b6db57fe8d7a0056758d1b11d4f91e012f44f12f36da2c9268e9177c30c206bcfb869d70061de12297de36d7d02ad",
+      "hash_meta": "e7abe4cfc9ee89598b91e941822d2f08722bd2e7041ff384066259a2be9f650a",
+      "seqno": 1915515
+    },
+    "service": {
+      "hostname": "khrisbyrd.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1515686295,
+  "expire_in": 504576000,
+  "prev": "44c5ab20ae171b01b236769c56b5847feec2054fa49d1e0a1b3108773842e16f",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggLWUDX7383OGJKtBGDc01+cEHPvX2YVeylRqWEanbWUKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODBiNTk0MGQ3ZWY3ZjM3Mzg2MjRhYjQxMTgzNzM0ZDdlNzA0MWNmYmQ3ZDk4NTVlY2E1NDZhNTg0NmE3NmQ2NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODBiNTk0MGQ3ZWY3ZjM3Mzg2MjRhYjQxMTgzNzM0ZDdlNzA0MWNmYmQ3ZDk4NTVlY2E1NDZhNTg0NmE3NmQ2NTBhIiwidWlkIjoiNzY3MGMxYzYxODk2NDkyYjY2ZGYyY2ZkZTVjODg1MTkiLCJ1c2VybmFtZSI6ImtocmlzYiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTY4NjI5MSwiaGFzaCI6ImI4MzAwNzU3NDQ2MGI2NjZhOGE1NGU2MzI3Zjc4OTg0OTA0YjZkYjU3ZmU4ZDdhMDA1Njc1OGQxYjExZDRmOTFlMDEyZjQ0ZjEyZjM2ZGEyYzkyNjhlOTE3N2MzMGMyMDZiY2ZiODY5ZDcwMDYxZGUxMjI5N2RlMzZkN2QwMmFkIiwiaGFzaF9tZXRhIjoiZTdhYmU0Y2ZjOWVlODk1OThiOTFlOTQxODIyZDJmMDg3MjJiZDJlNzA0MWZmMzg0MDY2MjU5YTJiZTlmNjUwYSIsInNlcW5vIjoxOTE1NTE1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImtocmlzYnlyZC5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNyJ9LCJjdGltZSI6MTUxNTY4NjI5NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0NGM1YWIyMGFlMTcxYjAxYjIzNjc2OWM1NmI1ODQ3ZmVlYzIwNTRmYTQ5ZDFlMGExYjMxMDg3NzM4NDJlMTZmIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFVvkuOw4DuV8H72xWhO8jZLkWGrfO0v0BsltsMeJGMSwlXSCBZs2jMn2y3lyv0m3YcdbqWQpguTjPNLbJZfdAOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD+r+SnnT/Z27MUK9F6lGBdLk7ARHZYVc5AQ05oUWrIaKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/khrisb
+
+==================================================================
+
