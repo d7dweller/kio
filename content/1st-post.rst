@@ -3,7 +3,7 @@
 
 :date: 2018-01-18 22:20
 
-:tags: python, general, linux, linux admin,
+:tags: python, general, linux, system administration,
 :category: general
 :slug: 1st-post
 :authors: Khris Byrd

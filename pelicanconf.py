@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Khris Byrd'
 SITENAME = 'Khris Byrd'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://khrisbyrd.com'
 
 PATH = 'content'
 
@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 THEME = "pelican-blue"
 
-##SPECIFICS to pelican-blue THEME###
+## Specifics to pelican-blue theme ###
 SIDEBAR_DIGEST = "Linux Admin by day, python coder by night."
-MENUITEMS = (('Home', SITEURL),)
+MENUITEMS = (('Home', '/'),)
             
