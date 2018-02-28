@@ -4,12 +4,14 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Khris Byrd'
 SITENAME = 'Khris Byrd'
-SITEURL = 'https://khrisbyrd.com'
+SITEURL = 'http://khrisbyrd.com'
 
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
 
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -32,9 +34,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = "pelican-blue"
+THEME = "crowsfoot"
 
 ## Specifics to pelican-blue theme ###
 SIDEBAR_DIGEST = "Linux Admin by day, python coder by night."
-MENUITEMS = (('Home', '/'),)
-            
+MENUITEMS = (('home', '/'),('about', 'about'),('projects', 'projects'),)
+
+## Specifics to crowsfoot theme ##
+GITHUB_ADDRESS = "https://github.com/notkhris"
+TWITTER_ADDRESS = "https://twitter.com/notkhris"
+SITESUBTITLE = "\"This kid's a nerd. - Seer\""            

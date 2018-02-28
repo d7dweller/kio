@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=khrisbyrd.com
+SSH_HOST=home412407503.1and1-data.host
 SSH_PORT=22
-SSH_USER=khris
-SSH_TARGET_DIR=/var/www/html/kb
+SSH_USER=u68641779
+SSH_TARGET_DIR=kb/
 
 S3_BUCKET=my_s3_bucket
 
