@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Khris Byrd'
 SITENAME = 'Khris Byrd'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://khris.io'
 
 PATH = 'content'
 
