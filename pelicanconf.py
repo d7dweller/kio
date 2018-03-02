@@ -4,14 +4,14 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Khris Byrd'
 SITENAME = 'Khris Byrd'
-SITEURL = 'http://khris.io'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
 
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -38,7 +38,7 @@ THEME = "crowsfoot"
 
 ## Specifics to pelican-blue theme ###
 SIDEBAR_DIGEST = "Linux Admin by day, python coder by night."
-MENUITEMS = (('home', '/'),('about', 'about'),('projects', 'projects'),)
+MENUITEMS = (('home', '/'),('about', 'about.html'),('projects', 'projects.html'),)
 
 ## Specifics to crowsfoot theme ##
 GITHUB_ADDRESS = "https://github.com/notkhris"
