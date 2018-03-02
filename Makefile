@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=home412407503.1and1-data.host
+SSH_HOST=khris.io
 SSH_PORT=22
-SSH_USER=u68641779
-SSH_TARGET_DIR=kb/
+SSH_USER=khris
+SSH_TARGET_DIR=/srv/www/kio
 
 S3_BUCKET=my_s3_bucket
 
