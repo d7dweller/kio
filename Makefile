@@ -1,4 +1,4 @@
-PY?=python3
+PY?=python36
 PELICAN?=pelican
 PELICANOPTS=
 
@@ -13,9 +13,9 @@ FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
 SSH_HOST=khris.io
-SSH_PORT=22
+SSH_PORT=668
 SSH_USER=khris
-SSH_TARGET_DIR=/srv/www/kio
+SSH_TARGET_DIR=/var/www/kio
 
 S3_BUCKET=my_s3_bucket
 
