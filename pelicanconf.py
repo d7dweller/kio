@@ -38,7 +38,7 @@ THEME = "crowsfoot"
 
 ## Specifics to pelican-blue theme ###
 SIDEBAR_DIGEST = "Linux Admin by day, python coder by night."
-MENUITEMS = (('home', '/'),('about', 'about.html'),('projects', 'projects.html'),)
+MENUITEMS = (('home', '/'),('about', 'about.html'),('projects', 'projects.html'),('contact', 'contact.html'),)
 
 ## Specifics to crowsfoot theme ##
 GITHUB_ADDRESS = "https://github.com/notkhris"
