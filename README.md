@@ -41,7 +41,7 @@ Python Virtual environment
 
 4. Install the requirements:
 
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 5. Run generate the html & run the developent server:
 
