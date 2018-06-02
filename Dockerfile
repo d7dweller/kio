@@ -9,5 +9,5 @@ WORKDIR /builder
 RUN apk update && apk upgrade && apk add make
 RUN pip install -r requirements.txt
 
-CMD [ "make", "html" ]
+CMD [ "make", "clean", "html" ]
 
